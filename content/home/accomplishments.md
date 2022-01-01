@@ -5,12 +5,13 @@ widget: accomplishments
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: ""
 subtitle:
 
 # Date format
@@ -23,30 +24,47 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-07-02"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: University of Edinburgh
+  organization_url: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1
+  title: Human Brain Mapping Educational Courses
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2021-06-01"
+  description: Certifications in Psychological First Aid, Pandemic First Aid, and First Aid Kit mastery for support during emergenceis and aftermaths (22-hour long course)
+  organization: Singapore First Aid Training Centre
+  organization_url: https://www.firstaidtraining.com.sg/
+  title: First Aid Courses
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2020-10-01"
+  description: Intensive training in research methods and programming at postgraduate levels
+  organization: Open Science Tools Ltd
+  organization_url: https://opensciencetools.org/
+  title: Creating Experiments in PsychoPy
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-08-01"
+  description: Collaborative Institutional Training Initiative for Ethics and Scientific Integrity in Research
+  organization: CITI Program
+  organization_url: https://about.citiprogram.org/
+  title: CITI Certification
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-08-01"
+  description: Epigeum Research Integrity Course - Social and Behavioural Sciences Track
+  organization: Epigeum
+  organization_url: https://www.epigeum.com/courses/research/
+  title: ERIC Certification
+  url: ""
+    
 
 design:
   columns: '2' 
