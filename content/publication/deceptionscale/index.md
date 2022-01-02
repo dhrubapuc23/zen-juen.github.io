@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://dominiquemakowski.github.io/publication/makowski2021structure/makowski2021structure.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

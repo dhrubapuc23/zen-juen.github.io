@@ -48,8 +48,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: https://dominiquemakowski.github.io/publication/makowski2021neurokit/makowski2021neurokit.pdf
+url_code: https://github.com/neuropsychology/NeuroKit
 url_dataset: ''
 url_poster: ''
 url_project: ''

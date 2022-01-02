@@ -50,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://www.researchgate.net/publication/338147728_Evidence_for_adult_age-invariance_in_associative_false_recognition
 url_code: ''
 url_dataset: ''
 url_poster: ''

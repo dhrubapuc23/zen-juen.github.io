@@ -1,5 +1,5 @@
 ---
-title: Are Flashbulb Memories Different from Original Autobiographical Memories?
+title: Are Flashbulb Memories Different from Original Autobiographical Memories? [Bachelor's Thesis]
 
 event: British Psychological Society (BPS) Undergraduate Conference 2019
 event_url: https://ecvp.org/
@@ -36,8 +36,8 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: uploads/CV.pdf
-url_slides: ""
+url_pdf: uploads/ZenJuenLau_UndergradDissertation.pdf
+url_slides: uploads/ZenJuenLau_BPS2019.pdf
 url_video: ""
 
 # Markdown Slides (optional).

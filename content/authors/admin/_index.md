@@ -39,10 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: lauzenjuen@gmail.com
-- icon: cv
-  icon_pack: ai
-  link: uploads/CV.pdf
+  link: mailto:lauzenjuen@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ZenJuen
@@ -70,6 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a Master of Clinical Neuropsychology student at Macquarie University (Sydney), under a full-ride scholarship from Ministry of Health Holdings (Singapore). My research interests lie in high-order cognitive functions such as memory, decision-making, and emotional dysfunction and how their interplay is altered in diseased states. I am also particularly interested in the use of information theory (e.g., brain entropy) for predicting diagnostic and treatment outcomes for neurodegenerative and psychiatric disorders.
+I am an incoming Master of Clinical Neuropsychology student at Macquarie University, under a full-ride scholarship from Ministry of Health Holdings, Singapore. Previously, I worked as a research assistant at the Clinical Brain Lab, at Nanyang Technological University from 2019 to 2021 and received my M.A. in Psychology from University of Edinburgh in 2019.
 
-Outside of empirical research, I am a maintainer of several open-source software, including tools for neurophysiological signal processing, optical illusion generation, and working memory tasks (scroll down to read more!).
+My research interests lie in high-order cognitive functions such as memory, decision-making, and emotional dysfunction and how their interplay is altered in diseased states. I am also particularly interested in the use of information theory (e.g., brain entropy) for predicting diagnostic and treatment outcomes for neurodegenerative and psychiatric disorders.
+
+Outside of empirical research, I develop and maintain [open-source software](/#projects), including tools for neurophysiological signal processing, optical illusion generation, and working memory assessment.

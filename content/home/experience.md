@@ -30,26 +30,25 @@ experience:
     date_start: '2019-07-29'
     date_end: '2021-02-07'
     description: |2-
-        Involved in projects aimed at investigating the neurcognitive mechanisms of deception, under the supervision of Professor Annabel Chen and Dr. Dominique Makowski. Responsibilities include performing MRI screening on participants and cognitive assessments of executive functioning and working memory in experimental settings. Actively participated in literature review and survey construction of a lie scale to measure the dispositional trait of deception as well as neurophysiological (e.g., EEG, ECG), behavioural, and online data collection, pre-processing, analysis and manuscript writing.
-
+        Undertook projects investigating the neurocognitive mechanisms of deception, under the supervision of Professor Annabel Chen and Dr. Dominique Makowski. Actively participated in literature review and survey construction of a lie scale to measure the dispositional trait of deception as well as neurophysiological (e.g., electroencephalography, electrocardiogram, respiration, electrodermal activity, etc), behavioural, and online data collection, pre-processing, analysis and manuscript writing. Other responsibilities include performing MRI screening on participants, cognitive assessments of executive functioning and working memory in experimental settings, and handling other lab administrative matters. 
   - title: Bachelor's Thesis
     company: University of Edinburgh
     company_url: ''
     company_logo: uoe
     location: United Kingdom
-    date_start: '2018-09-01'
-    date_end: '2019-03-03'
+    date_start: '2018-05-01'
+    date_end: '2019-04-03'
     description: |2-
-        Conducted a year-long empirical research to investigate mechanisms underlying flashbulb memories using an autobiographical implicit association test (aIAT), under the supervision of Professor Robert Logie.
+        Conducted a year-long empirical research into mechanisms underlying flashbulb memories using an autobiographical implicit association test (aIAT), under the supervision of Professor Robert Logie.
   - title: Mental Health Care Support Worker
     company: SLV.Global
     company_url: ''
     company_logo: slv
-    location: United Kingdom
+    location: Indonesia
     date_start: '2018-06-01'
     date_end: '2018-07-01'
     description: |2-
-        Worked at psychiatric facilities and special needs centres in Indonesia, Bali. Designed and implemented activities to improve psychological health outcomes of individuals with various mental health difficulties and neurological deficits (e.g., schizophrenia, down syndrome, autism and other intellectual disabilities).
+        Worked with a team of volunteers at psychiatric facilities and special needs centres in Bali (Indonesia), together with local mental health professionals. Designed, implemented and reviewed therapeutic activity sessions to improve psychological health outcomes of individuals with various mental health difficulties and neurological deficits (e.g., schizophrenia, down syndrome, autism and other intellectual disabilities).
   - title: Group Research Project
     company: University of Edinburgh
     company_url: ''
@@ -58,7 +57,7 @@ experience:
     date_start: '2017-09-01'
     date_end: '2018-03-03'
     description: |2-
-        Conducted a conceptual replication of a highly-cited (but never replicated) 1998 study and investigated aging effects in the Deese-Roediger-McDermott (DRM) paradigm using young and old populations, under the supervision of Dr. Alexa Morcom. Now published in Memory as joint-first author.
+        Conducted a conceptual replication study of a highly-cited (but never replicated) 1998 study and investigated aging effects in the Deese-Roediger-McDermott (DRM) paradigm using young and old populations, under the supervision of Dr. Alexa Morcom. Now published in Memory as joint-first author.
   - title: Undergraduate Research Assistant
     company: University of Edinburgh
     company_url: ''
@@ -77,7 +76,7 @@ experience:
     date_end: '2017-08-01'
     description: |2-
         Researched on drug addiction and rehabilitative outcomes and designed a guide for correctional staff to aid and enhance effective rehabilitative practices in the Drug Rehabilitation Centre. Observed group counselling sessions conducted by correctional specialists and interviewing of offenders conducted by prison officers.
-  
+
 design:
   columns: '2'
 ---

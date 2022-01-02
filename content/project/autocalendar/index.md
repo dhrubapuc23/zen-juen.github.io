@@ -1,6 +1,6 @@
 ---
 title: AutoCalendar
-summary: A Python scheduling automation system based on the Google Calendar API ideal for scheduling research participants.
+summary: A Python scheduling automation system based on the Google Calendar API for scheduling research participants.
 
 tags:
 -  Miscellaneous

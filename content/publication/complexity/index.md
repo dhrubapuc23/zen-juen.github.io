@@ -27,7 +27,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Sensors*
-# publication_short: In *Sensors*
+publication_short: (Under Review)
 
 abstract: While electroencephalography (EEG) signals are commonly examined using conventional linear methods, there has been an increasing trend towards the use of complexity analysis in quantifying neural activity. On top of revealing complex neuronal processes of the brain that may not be possible with linear approaches, EEG complexity measures have also demonstrated their potential as biomarkers of psychopathology such as depression and schizophrenia. Unfortunately, the opacity of algorithms and descriptions originating from mathematical concepts have made it difficult to understand what complexity is and how to draw consistent conclusions when applied within psychology and neuropsychiatry research. In this review, we provide an overview and entry-level explanation of existing EEG complexity measures, which can be broadly categorized as measures of (1) predictability and (2) regularity. We then synthesize complexity findings across different areas of psychological science, namely in consciousness research, mood and anxiety disorders, schizophrenia, neurodevelopmental and neurodegenerative disorders, as well as changes across the lifespan, while addressing some theoretical and methodological issues underlying the discrepancies in the data. Finally, we present important considerations when choosing and interpreting these metrics.
 

@@ -44,14 +44,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: https://dominiquemakowski.github.io/publication/makowski2021parametric/makowski2021parametric.pdf
+url_code: https://github.com/RealityBending/Pyllusion
 url_dataset: ''
-url_poster: ''
+url_poster: https://github.com/RealityBending/Pyllusion/blob/master/ecvp/poster.pdf
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: https://www.youtube.com/watch?v=uptP_NxEHaM&ab_channel=RealityBendingLab
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
