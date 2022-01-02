@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous | Zen Juen Lau</title>
+    <link>https://example.com/tag/miscellaneous/</link>
+      <atom:link href="https://example.com/tag/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miscellaneous</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hub02f11719440bf94480d1ab9e24c040b_133952_512x512_fill_lanczos_center_3.png</url>
+      <title>Miscellaneous</title>
+      <link>https://example.com/tag/miscellaneous/</link>
+    </image>
+    
+    <item>
+      <title>AutoCalendar</title>
+      <link>https://example.com/project/autocalendar/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/autocalendar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoRemind</title>
+      <link>https://example.com/project/autoremind/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/autoremind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

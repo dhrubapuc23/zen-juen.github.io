@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Zen Juen Lau</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hub02f11719440bf94480d1ab9e24c040b_133952_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Parametric Framework to Generate Visual Illusions Using Python</title>
+      <link>https://example.com/publication/pyll/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Structure of Heart Rate Variability (HRV) Indices: A Data-driven Meta-clustering Approach</title>
+      <link>https://example.com/publication/hrv_structure/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hrv_structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Entropy, Fractal Dimensions and Predictability: A Review of Complexity Measures for EEG in Healthy and Neuropsychiatric Populations</title>
+      <link>https://example.com/publication/complexity/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial</title>
+      <link>https://example.com/publication/hrv_tutorial/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hrv_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of deception: Validation of the lying profile questionnaire</title>
+      <link>https://example.com/publication/deceptionscale/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/deceptionscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroKit2: A Python toolbox for neurophysiological signal processing</title>
+      <link>https://example.com/publication/nk/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/nk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for adult age-invariance in associative false recognition</title>
+      <link>https://example.com/publication/drm/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/drm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
