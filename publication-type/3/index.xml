@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Zen Juen Lau</title>
-    <link>https://example.com/publication-type/3/</link>
-      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zen-juen.github.io/publication-type/3/</link>
+      <atom:link href="https://zen-juen.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub02f11719440bf94480d1ab9e24c040b_133952_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zen-juen.github.io/media/icon_hub02f11719440bf94480d1ab9e24c040b_133952_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://example.com/publication-type/3/</link>
+      <link>https://zen-juen.github.io/publication-type/3/</link>
     </image>
     
     <item>
       <title>Unveiling the Structure of Heart Rate Variability (HRV) Indices: A Data-driven Meta-clustering Approach</title>
-      <link>https://example.com/publication/hrv_structure/</link>
+      <link>https://zen-juen.github.io/publication/hrv_structure/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hrv_structure/</guid>
+      <guid>https://zen-juen.github.io/publication/hrv_structure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brain Entropy, Fractal Dimensions and Predictability: A Review of Complexity Measures for EEG in Healthy and Neuropsychiatric Populations</title>
-      <link>https://example.com/publication/complexity/</link>
+      <link>https://zen-juen.github.io/publication/complexity/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/complexity/</guid>
+      <guid>https://zen-juen.github.io/publication/complexity/</guid>
       <description></description>
     </item>
     

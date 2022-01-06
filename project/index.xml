@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Zen Juen Lau</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zen-juen.github.io/project/</link>
+      <atom:link href="https://zen-juen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub02f11719440bf94480d1ab9e24c040b_133952_512x512_fill_lanczos_center_3.png</url>
+      <url>https://zen-juen.github.io/media/icon_hub02f11719440bf94480d1ab9e24c040b_133952_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://zen-juen.github.io/project/</link>
     </image>
     
     <item>
       <title>NeuroKit2</title>
-      <link>https://example.com/project/neurokit/</link>
+      <link>https://zen-juen.github.io/project/neurokit/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/neurokit/</guid>
+      <guid>https://zen-juen.github.io/project/neurokit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pyllusion</title>
-      <link>https://example.com/project/pyllusion/</link>
+      <link>https://zen-juen.github.io/project/pyllusion/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pyllusion/</guid>
+      <guid>https://zen-juen.github.io/project/pyllusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AutoCalendar</title>
-      <link>https://example.com/project/autocalendar/</link>
+      <link>https://zen-juen.github.io/project/autocalendar/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/autocalendar/</guid>
+      <guid>https://zen-juen.github.io/project/autocalendar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AutoRemind</title>
-      <link>https://example.com/project/autoremind/</link>
+      <link>https://zen-juen.github.io/project/autoremind/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/autoremind/</guid>
+      <guid>https://zen-juen.github.io/project/autoremind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complex Span Task</title>
-      <link>https://example.com/project/complexspan/</link>
+      <link>https://zen-juen.github.io/project/complexspan/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/complexspan/</guid>
+      <guid>https://zen-juen.github.io/project/complexspan/</guid>
       <description></description>
     </item>
     
